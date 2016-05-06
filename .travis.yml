@@ -1,7 +1,7 @@
 language: ruby
 rvm:
 - 2.1.2
-gemfile: Gemfile.ci
+gemfile: Gemfile
 deploy:
   provider: heroku
   api_key:
