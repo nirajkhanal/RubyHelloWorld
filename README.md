@@ -1,3 +1,3 @@
 Builld Status:
 
-[![Build Status](https://travis-ci.org/nirajkhanal/RubyHelloWorld.svg?branch=master)](https://travis-ci.org/nirajkhanal/RubyHelloWorld) 
+[![Build Status](https://travis-ci.org/nirajkhanal/hello_world.svg?branch=master)](https://travis-ci.org/nirajkhanal/hello_world) 
