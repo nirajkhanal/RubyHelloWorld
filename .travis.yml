@@ -2,3 +2,7 @@ language: ruby
 rvm: 
   - "2.1.2"
 gemfile: Gemfile.ci
+deploy:
+  provider: heroku
+  api_key:
+    secure: "e28ce46e-2311-415f-ac1c-003ccc0d0483"
