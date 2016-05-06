@@ -1,2 +1,2 @@
-require './RubyHelloWorld'
+require './hello_world'
 run Sinatra::Application
