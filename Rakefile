@@ -1,5 +1,5 @@
 require 'rake'
 
 task :default do
-	puts "Hello World!"
+  puts "Hello World!"
 end
